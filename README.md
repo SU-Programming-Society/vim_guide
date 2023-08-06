@@ -1,2 +1,11 @@
-# vim_guide
-A competition for students of Stellenbosch University to see who can explain vim the best.
+# Vim Resources
+Vim/Neovim Resources by CS students for CS students
+
+
+### Here are resources made by our students:
+
+
+https://github.com/willieloftieeaton/vim_resources
+
+
+https://github.com/DylanKirbs/vimrc
